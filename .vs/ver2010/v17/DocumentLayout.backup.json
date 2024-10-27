@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\1670\\jobmatchfpt\\1670verDemo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{75A9D17B-0F08-4083-894E-565AC7A4E478}|ver2010\\ver2010.csproj|d:\\1670\\jobmatchfpt\\1670verdemo\\ver2010\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{75A9D17B-0F08-4083-894E-565AC7A4E478}|ver2010\\ver2010.csproj|solutionrelative:ver2010\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{75A9D17B-0F08-4083-894E-565AC7A4E478}|ver2010\\ver2010.csproj|d:\\1670\\jobmatchfpt\\1670verdemo\\ver2010\\views\\jobposts\\viewapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{75A9D17B-0F08-4083-894E-565AC7A4E478}|ver2010\\ver2010.csproj|solutionrelative:ver2010\\views\\jobposts\\viewapplications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -30,21 +34,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ViewApplications.cshtml",
-              "DocumentMoniker": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\Views\\JobPosts\\ViewApplications.cshtml",
-              "RelativeDocumentMoniker": "ver2010\\Views\\JobPosts\\ViewApplications.cshtml",
-              "ToolTip": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\Views\\JobPosts\\ViewApplications.cshtml",
-              "RelativeToolTip": "ver2010\\Views\\JobPosts\\ViewApplications.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T15:11:29.669Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -91,7 +82,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\.gitignore",
+              "RelativeDocumentMoniker": "ver2010\\.gitignore",
+              "ToolTip": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\.gitignore",
+              "RelativeToolTip": "ver2010\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-27T15:29:09.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ViewApplications.cshtml",
+              "DocumentMoniker": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\Views\\JobPosts\\ViewApplications.cshtml",
+              "RelativeDocumentMoniker": "ver2010\\Views\\JobPosts\\ViewApplications.cshtml",
+              "ToolTip": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\Views\\JobPosts\\ViewApplications.cshtml",
+              "RelativeToolTip": "ver2010\\Views\\JobPosts\\ViewApplications.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T15:11:29.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\Views\\Applications\\Edit.cshtml",
               "RelativeDocumentMoniker": "ver2010\\Views\\Applications\\Edit.cshtml",
@@ -99,12 +115,11 @@
               "RelativeToolTip": "ver2010\\Views\\Applications\\Edit.cshtml",
               "ViewState": "AgIAACoAAAAAAAAAAAAAAEgAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T15:05:40.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T15:05:40.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\Views\\Applications\\Details.cshtml",
               "RelativeDocumentMoniker": "ver2010\\Views\\Applications\\Details.cshtml",
@@ -112,12 +127,11 @@
               "RelativeToolTip": "ver2010\\Views\\Applications\\Details.cshtml",
               "ViewState": "AgIAACMAAAAAAAAAAAAkwDUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T15:04:53.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T15:04:53.853Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\Views\\Applications\\Index.cshtml",
               "RelativeDocumentMoniker": "ver2010\\Views\\Applications\\Index.cshtml",
@@ -125,12 +139,11 @@
               "RelativeToolTip": "ver2010\\Views\\Applications\\Index.cshtml",
               "ViewState": "AgIAACQAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-27T15:00:55.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T15:00:55.44Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "JobPostsController.cs",
               "DocumentMoniker": "D:\\1670\\jobmatchfpt\\1670verDemo\\ver2010\\Controllers\\JobPostsController.cs",
               "RelativeDocumentMoniker": "ver2010\\Controllers\\JobPostsController.cs",
@@ -138,8 +151,7 @@
               "RelativeToolTip": "ver2010\\Controllers\\JobPostsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-27T15:01:44.431Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-27T15:01:44.431Z"
             }
           ]
         }
