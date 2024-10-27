@@ -1,0 +1,40 @@
+﻿@model IEnumerable<ver2010.Models.Application>
+
+@{
+    ViewData["Title"] = "Applications";
+}
+
+<h1>Applications</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>@Html.DisplayNameFor(model => model.FullName)</th>
+            <th>@Html.DisplayNameFor(model => model.Email)</th>
+            <th>@Html.DisplayNameFor(model => model.Status)</th>
+            <th>@Html.DisplayNameFor(model => model.Gender)</th>
+            <th>@Html.DisplayNameFor(model => model.Age)</th>
+            <th>@Html.DisplayNameFor(model => model.Location)</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var application in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(modelItem => application.FullName)</td>
+                <td>@Html.DisplayFor(modelItem => application.Email)</td>
+                <td>@Html.DisplayFor(modelItem => application.Status)</td>
+                <td>@Html.DisplayFor(modelItem => application.Gender)</td>
+                <td>@Html.DisplayFor(modelItem => application.Age)</td>
+                <td>@Html.DisplayFor(modelItem => application.Location)</td>
+                <td>
+                    @if (User.IsInRole("Employer"))
+                    {
+                        <a asp-controller="Applications" asp-action="Details" asp-route-id="@application.Id" class="btn btn-primary">View Details</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

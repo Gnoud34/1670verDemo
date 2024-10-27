@@ -1,0 +1,26 @@
+﻿# Thư mục Visual Studio
+.vs/
+
+# Thư mục dựng build và các file nhị phân
+bin/
+obj/
+
+# Cấu hình người dùng của Visual Studio
+*.user
+*.suo
+
+# Các file log
+*.log
+
+# Các file hệ điều hành
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Thư viện tạm
+*.tmp
+*.temp
+*.bak
+*.swp
